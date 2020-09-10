@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1599711308 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"funcionesTP1.h"
+
+1599711071 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\tp1\funcionestp1.c
+
+1599710992 c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\tp1\funcionestp1.h
+

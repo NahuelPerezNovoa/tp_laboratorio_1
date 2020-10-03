@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1601750484 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"FuncTp2.h"
+
+1601748249 c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\tp2\functp2.h
+
+1601748681 source:c:\users\nahuel\documents\utn\1er cuatri\lab\tp1\tp2\functp2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"FuncTp2.h"
+
